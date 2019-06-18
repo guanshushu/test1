@@ -1,0 +1,12 @@
+p {
+    width: 200px;
+    height: 200px;
+    background-color: #666666;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -o-transform: translate(-50%);
+}
